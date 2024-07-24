@@ -37,7 +37,7 @@ Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
-## Usage/Examples
+## Usage
 1. Run the Flask application:
 ```
 python app.py
